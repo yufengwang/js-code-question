@@ -1,0 +1,23 @@
+{
+  "name": "js-code-question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise-concurrency.js",
+  "devDependencies": {
+    "prettier": "^2.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yufengwang/js-code-question.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yufengwang/js-code-question/issues"
+  },
+  "homepage": "https://github.com/yufengwang/js-code-question#readme"
+}
